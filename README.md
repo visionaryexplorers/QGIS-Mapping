@@ -22,6 +22,7 @@ Landslide data from the provided dataset (with points representing landslides).
 **Visualizations:** Displays the results on an interactive map using QGIS, with different colors representing the severity of landslides and the corresponding evacuation zones.
 
 **How It Works**
+
 Input Data:
 **India shapefile:** Geographical boundary of India.
 **Landslide dataset:** CSV file containing landslide data with latitude, longitude, and severity classification.
