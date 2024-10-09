@@ -57,7 +57,7 @@ _Safe evacuation zones are highlighted around the clusters._
 - Open the QGIS project file (.qgz) and load the shapefiles to visualize the clusters and safe zones on the map.
 
 **Results**
-- The results of the analysis include a QGIS map where:
+_The results of the analysis include a QGIS map where:_
 - Landslide locations are marked and color-coded based on severity.
 - Safe evacuation zones are displayed around the clusters.
 - This project provides an insightful approach to landslide risk analysis using GIS tools and clustering techniques. It can be a crucial aid for disaster management and evacuation planning.
