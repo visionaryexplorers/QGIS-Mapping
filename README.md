@@ -56,7 +56,7 @@ _Safe evacuation zones are highlighted around the clusters._
 - Run the Jupyter Notebook to perform the clustering and safe zone analysis.
 - Open the QGIS project file (.qgz) and load the shapefiles to visualize the clusters and safe zones on the map.
 
-**Results**
+**Results**:
 _The results of the analysis include a QGIS map where:_
 - Landslide locations are marked and color-coded based on severity.
 - Safe evacuation zones are displayed around the clusters.
